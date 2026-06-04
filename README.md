@@ -1,5 +1,3 @@
-
-```markdown
 # 📊 Customer Shopping Behavior Analysis & Dashboard
 
 ## 📌 Project Overview
@@ -50,8 +48,6 @@ table_name = "customer"
 df.to_sql(table_name, engine, if_exists="replace", index=False)
 
 print(f"✅ Data successfully loaded into table '{table_name}' in database '{database}'.")
-
-```
 
 ---
 
