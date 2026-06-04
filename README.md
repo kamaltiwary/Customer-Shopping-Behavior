@@ -142,8 +142,4 @@ The main visual layer is designed for immediate scannability, utilizing high-den
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)
 
-```
-
----
-
 
