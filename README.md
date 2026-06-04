@@ -147,7 +147,3 @@ The main visual layer is designed for immediate scannability, utilizing high-den
 ---
 
 
-
-Isme koi bhi chiz badalni ho ya koi naya SQL query code jodna ho, toh bataiye, mai turant update kar dunga!
-
-```
