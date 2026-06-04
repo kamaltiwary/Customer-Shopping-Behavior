@@ -6,9 +6,9 @@ This project involves a comprehensive end-to-end data analytics pipeline designe
 The lifecycle spans automated data processing in **Python**, relational database warehousing in **PostgreSQL**, advanced analytical reporting using **SQL queries**, and executive-level visualization via an interactive **Power BI Dashboard**. The final platform serves as a centralized solution to optimize marketing spend, track customer loyalty, evaluate product performance, and drive subscription growth.
 
 ## 📈 Dashboard Overview
-### 1️⃣ Main Dashboard
-![Main Dashboard]()  
-The Main Dashboard acts as a **centralized control center**, consolidating key metrics across products, revenue, profit, trading, and customers.
+### Dashboard
+![Dashboard](https://github.com/kamaltiwary/Customer-Shopping-Behavior/blob/main/Customer%20Shopping%20Behavior%20Dashboard%20View.png)  
+
 
 
 ### 🎯 Key Project Objectives:
