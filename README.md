@@ -146,6 +146,6 @@ The main visual layer is designed for immediate scannability, utilizing high-den
 
 📧 [kamalnayantiwary73@gmail.com](https://www.google.com/search?q=mailto%3Akamalnayantiwary73%40gmail.com)
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)
+🔗 [LinkedIn Profile](http://www.linkedin.com/in/kamalnayantiwary)
 
 
